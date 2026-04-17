@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Full metro-level restaurant coverage for Lancaster (Metro), Pennsylvania, spanning Lancaster. Covers the full metropolitan dining ecosystem of a mid-size metropolitan dining market. Filtered by the Restaurants category group with ratings, review analytics, competitive positioning, and contact information. Refreshed weekly.",
   "config_name": "All Restaurants in Lancaster (Metro), Pennsylvania, US",
-  "export_job_id": "d09f4812-9116-498d-b0b7-4e0c107c080a",
+  "export_job_id": "be48391d-a36b-4ef1-9ad3-2437f38debb8",
   "github_org": "Beamstation-Datasets",
   "id_short": 358510,
   "location_name": "Lancaster, PA",
   "location_type": "metro",
   "repo_name": "all-restaurants-in-lancaster-metro-pennsylvania-us-sample-358510",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/358510/beamstation_358510_restaurants-us-lancasterpa_SAMPLE_DIST.csv",
-  "sample_pct": 9.63,
+  "sample_pct": 9.68,
   "sample_records": 21,
-  "sample_sha256": "18eaf8717f7178021cb3027f60873729a75a741ffb83d2f72a8f6533fd94d638",
-  "sample_size_bytes": 90458,
-  "total_records": 218,
-  "updated_at": "2026-04-07T12:06:26.350002+00:00"
+  "sample_sha256": "5ce7a467086d997bb235d933d5868d3689b7a7d94ac5c45733c58ca72e8178d7",
+  "sample_size_bytes": 96697,
+  "total_records": 217,
+  "updated_at": "2026-04-14T11:56:07.612429+00:00"
 }
