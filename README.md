@@ -9,9 +9,9 @@
 | Dataset ID | `358510` |
 | Location | Lancaster, PA |
 | Category | Restaurants |
-| Full dataset size | 218 records |
-| Free sample size | 21 records (9.63%) |
-| Last export | 2026-04-07T12:06:26.350002+00:00 |
+| Full dataset size | 217 records |
+| Free sample size | 21 records (9.68%) |
+| Last export | 2026-04-14T11:56:07.612429+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-lancaster-metro-pennsylvania-us-sample-358510/releases/download/sample-latest/beamstation_358510_restaurants-us-lancasterpa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
