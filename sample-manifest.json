@@ -1,12 +1,12 @@
 {
-  "export_job_id": "be48391d-a36b-4ef1-9ad3-2437f38debb8",
+  "export_job_id": "9686dc22-75a1-47a6-afa2-5776331fa523",
   "id_short": 358510,
-  "published_at": "2026-04-17T19:20:29Z",
+  "published_at": "2026-04-21T19:19:49Z",
   "repo_name": "all-restaurants-in-lancaster-metro-pennsylvania-us-sample-358510",
   "sample_asset_name": "beamstation_358510_restaurants-us-lancasterpa_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/358510/beamstation_358510_restaurants-us-lancasterpa_SAMPLE_DIST.csv",
-  "sample_records": 21,
-  "sample_sha256": "5ce7a467086d997bb235d933d5868d3689b7a7d94ac5c45733c58ca72e8178d7",
-  "sample_size_bytes": 96697,
-  "total_records": 217
+  "sample_records": 16,
+  "sample_sha256": "5a894343387e27573e018ece504bae12b3366ba436bcec8748322658e9f0186a",
+  "sample_size_bytes": 78666,
+  "total_records": 160
 }
