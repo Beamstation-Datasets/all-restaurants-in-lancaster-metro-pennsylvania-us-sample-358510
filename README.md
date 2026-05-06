@@ -1,6 +1,6 @@
 # All Restaurants in Lancaster (Metro), Pennsylvania, US
 
-> Free BeamStation sample export with 19 rows and masked direct-contact fields.
+> Free BeamStation sample export with 22 rows and masked direct-contact fields.
 
 ## Snapshot
 
@@ -9,9 +9,9 @@
 | Dataset ID | `358510` |
 | Location | Lancaster, PA |
 | Category | Restaurants |
-| Full dataset size | 198 records |
-| Free sample size | 19 records (9.6%) |
-| Last export | 2026-04-28T13:24:37.875679+00:00 |
+| Full dataset size | 225 records |
+| Free sample size | 22 records (9.78%) |
+| Last export | 2026-05-06T01:02:21.693895+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-lancaster-metro-pennsylvania-us-sample-358510/releases/download/sample-latest/beamstation_358510_restaurants-us-lancasterpa_SAMPLE_DIST.csv) |
 
 ## What is in this sample
